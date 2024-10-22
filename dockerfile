@@ -6,6 +6,7 @@ WORKDIR /app
 
 # Copy package.json and install dependencies
 COPY package.json yarn.lock ./
+RUN npm install -g npm@10.9.0
 RUN yarn install
 
 # Copy the rest of the application files
