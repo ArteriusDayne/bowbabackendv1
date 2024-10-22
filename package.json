@@ -105,6 +105,7 @@
     "testEnvironment": "node"
   },
   "resolutions": {
+    "@babel/traverse": "^7.23.2",
     "glob": "^7.2.3"
   }
 }
