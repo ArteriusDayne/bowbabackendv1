@@ -45,7 +45,7 @@
     "medusa-interfaces": "1.3.10",
     "medusa-payment-manual": "1.0.25",
     "medusa-payment-stripe": "6.0.11",
-    "memfs": "^4.14.0",
+    "memfs": "^4.15.0",
     "memoize-one": "^6.x",
     "prism-react-renderer": "^2.0.4",
     "react": "^18.3.1",
